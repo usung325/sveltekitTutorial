@@ -4,12 +4,7 @@
         price: 0,
         src: '/favicon.png'
     }
-    // let products = [
-    //     {name: 'cup', quantity: 10},
-    //     {name: 'spoon', quantity: 20},
-    //     {name: 'fork', quantity: 30},
-    //     {name: 'napkin', quantity: 500}
-    // ]
+    // these are default values above if no props are given
 </script>
 
 
